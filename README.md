@@ -3,8 +3,6 @@
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD041 -->
 
-<\
-
 <!-- Introduction Section -->
 
 ## 📖 Introduction
